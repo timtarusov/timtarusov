@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @timtarusov
 - 👀 I’m interested in data science, machine learning and web development
 - 🌱 I’m currently learning GO, it's super fun
-- 💞️ I’m looking to collaborate on anything really
 - 📫 How to reach me email: tim.tarusov@yandex.ru
 
 <!---
