@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @timtarusov
-- 👀 I’m interested in data science, machine learning and web development
-- 🌱 I’m currently learning GO, it's super fun
-- 📫 How to reach me - email: tim.tarusov@yandex.ru
+- 👀 I’m interested in data science, machine learning and software development
+- 📫 How to reach me - email: timofey.tarusov@gmail.com
 
 <!---
 timtarusov/timtarusov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
